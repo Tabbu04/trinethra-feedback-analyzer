@@ -23,3 +23,17 @@ Built as part of the DeepThought Software Developer assignment.
 
 ### 1. Install Ollama
 Download from ollama.com and run:
+
+### 2. Install Python dependencies
+
+### 3. Start the backend
+
+### 4. Open the frontend
+Open `frontend/index.html` in your browser.
+
+## What I'd Improve Next
+
+- Fix occasional missing positive evidence in AI output
+- Add export to PDF feature
+- Add comparison view for multiple Fellows
+- Deploy backend to a cloud server so it works without local Ollama
